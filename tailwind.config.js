@@ -1,6 +1,8 @@
 module.exports = {
   content: ["./*.html"],
   theme: {
+    // ملاحظة مهمة
+    // ملاحظة: سيؤثر على حجم container
     screens: {
       sm: "480px",
       md: "768px",
